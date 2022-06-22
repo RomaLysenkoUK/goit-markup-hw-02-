@@ -21,7 +21,6 @@ body{
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-    color: #2196F3;
     text-decoration: none;
 }
 .nav-kont{
@@ -29,6 +28,14 @@ body{
     font-size: 14px;
     line-height: 16px; 
     text-decoration: none;
+}
+.nav-studia:hover,
+.nav-portfolio:hover,
+.nav-kont:hover,
+.nav-studia:active,
+.nav-portfolio:active,
+.nav-kont:active{
+ color: #2196F3;
 }
 .email{
     color: #757575;
@@ -45,6 +52,14 @@ body{
     line-height: 16px;
     letter-spacing: 0.02em;
     text-decoration: none;
+}
+.shapka-text{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
 }
 button{
     background: #F5F4FA;
