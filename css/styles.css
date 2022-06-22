@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto';
+    color: #212121;
+}
+.logo{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+.nav-studia{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+.nav-portfolio{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #2196F3;
+    text-decoration: none;
+}
+.nav-kont{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px; 
+    text-decoration: none;
+}
+.email{
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+.tel{
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+button{
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+button:hover,
+button:focus{
+    background: #2196F3;
+    color: #fff;
+    cursor: pointer;
+} 
+h3{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+}
+p{
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575; 
+}
+.address{
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+footer{
+    background: #2F303A;
+}
