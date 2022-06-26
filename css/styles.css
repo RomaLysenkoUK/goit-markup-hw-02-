@@ -105,6 +105,9 @@ body{
     color: var(--white-color);
     cursor: pointer;
 } 
+.future-name{
+    content-visibility: hidden;
+}
 .future-title-text{
     font-weight: 700;
     font-size: 14px;
