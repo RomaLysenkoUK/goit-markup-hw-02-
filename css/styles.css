@@ -98,6 +98,11 @@ body{
     color: var(--white-color);
     cursor: pointer;
 } 
+.btn-active{
+    background: var(--accent-color);
+    color: var(--white-color);
+    cursor: pointer;
+}
 .future-title-text{
     line-height: 1.71;
     text-transform: uppercase;
