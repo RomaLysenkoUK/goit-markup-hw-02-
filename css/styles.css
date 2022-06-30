@@ -104,6 +104,7 @@ body{
     cursor: pointer;
 }
 .future-title-text{
+    font-size: 14px;
     line-height: 1.71;
     text-transform: uppercase;
 
